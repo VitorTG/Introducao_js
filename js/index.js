@@ -1,5 +1,5 @@
 var titulo = document.querySelector(".titulo");
-titulo.textContent = "Iniciando no JS";
+titulo.textContent = "Iniciando no JS 1.1";
 
 var preciso = 19.1*1.7+13.1*1.3+4*3+11.1*1.3+9*1.1+5.6*0.9+0.7*0.5+2.6*2.4+
 1.5*4*4+3*13*4+7.5*3.9+0.6*0.9*2+1.25*1.8*6+1.25*2.5*6+2.5*2.4+
